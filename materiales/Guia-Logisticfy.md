@@ -1,4 +1,4 @@
-# Guía Logisticfy · `M-01`
+# Guía Logisticfy
 
 ### Detectar correos sospechosos y verificar cambios en envíos y facturación
 
@@ -6,7 +6,7 @@
 * **Objetivo y acción vinculados:** Objetivo **O-01** (con apoyo a **O-02** y **O-04**) · Acción **A-01**
 * **Destinatarios principales:** Operaciones, Atención al Cliente, Comercial y Administración *(extensible a toda la plantilla, incluida la persona en prácticas)*
 * **Normativa de referencia:** Normas **N-01**, **N-04**, **N-05** y **N-07** · Principios **P-01**, **P-03**, **P-05** y **P-06**
-* **Recurso interactivo complementario:** [`../programa/IG-Concienciacion.py`](../programa/IG-Concienciacion.py)
+* **Recurso interactivo complementario:** [`IG-Concienciacion.py`](../programa/IG-Concienciacion.py)
 
 
 
