@@ -11,6 +11,7 @@ Este repositorio contiene la propuesta de marco de protección, programa de conc
 ```text
 .
 ├── README.md                              # Introducción
+├── Prevencion-Concienciacion.md           # Plantilla
 ├── materiales/
 │   └── Guia-Logisticfy.md                 # Guía rápida textual.
 └── programa/
